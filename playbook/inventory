@@ -1,0 +1,1 @@
+172.19.0.2   ansible_connection=ssh ansible_ssh_user=donato ansible_ssh_pass=password ansible_ssh_port=2222
