@@ -16,5 +16,6 @@ Check Playbook
 
 $ ansible-playbook -i inventory playbook.yml --check
 
-Play Playbook
+Run Playbook
 
+$ ansible-playbook -i inventory playbook.yml 
